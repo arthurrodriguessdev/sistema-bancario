@@ -1,4 +1,4 @@
-# Sistema Academia 💰
+# Sistema Bancário 💰
 
 Este é um sistema simples que simula um sistema bancário, no qual o usuário consegue depositar, sacar e consultar seu saldo bancário.
 
